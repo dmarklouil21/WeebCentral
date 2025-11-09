@@ -28,5 +28,4 @@ This app serves as a **Manga Reader** that fetches manga titles, chapters, and i
 
 ---
 
-## 📂 Project Structure
 
